@@ -1,3 +1,6 @@
 [submodule "homework_1"]
 	path = homework_1
 	url = https://github.com/M4XPRD/react-webinar-3
+[submodule "homework_2"]
+	path = homework_2
+	url = https://github.com/M4XPRD/react-webinar-3
